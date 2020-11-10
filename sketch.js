@@ -101,6 +101,25 @@ function draw() {
   box24.display();
   box25.display();
 
+  box8.score();
+  box9.score();
+  box10.score();
+  box11.score();
+  box12.score();
+  box13.score();
+  box14.score();
+  box15.score();
+  box16.score();
+  box17.score();
+  box18.score();
+  box19.score();
+  box20.score();
+  box21.score();
+  box22.score();
+  box23.score();
+  box24.score();
+  box25.score();
+
   slingshot1.display();
   hexagon1.display();
 
